@@ -1,0 +1,71 @@
+﻿<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.x509']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.keystore']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.pqc.jcajce.provider']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.crypto']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.crypto.modes']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.dh']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.ec']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.dsa']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.dstu']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.ecgost']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.elgamal']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.gost']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.rsa']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.ies']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.asymmetric.util']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.symmetric.util']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.x509']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.crypto.tls']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.digest']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.symmetric']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jcajce.provider.symmetric']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.math.ec.custom.sec']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.pqc.jcajce.provider.mceliece']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.math.ec.custom.djb']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jce.provider']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.pqc.jcajce.provider.util']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.jce.provider']" />
+  <remove-node path="/api/package[@name='org.bouncycastle.pqc.jcajce.provider.rainbow']" />
+
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.dh']" />
+  <remove-node path="/api/package[@name='org.spongycastle.math.ec.custom.djb']" />
+  <remove-node path="/api/package[@name='org.spongycastle.math.ec.custom.sec']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.x509']" />
+  <remove-node path="/api/package[@name='org.spongycastle.pqc.jcajce.provider.mceliece']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.symmetric']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.digest']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.ec']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.elgamal']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.dsa']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.ecgost']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.gost']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.rsa']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.dstu']" />
+  <remove-node path="/api/package[@name='org.spongycastle.pqc.jcajce.provider.rainbow']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.ies']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric.util']" />
+  <remove-node path="/api/package[@name='org.spongycastle.pqc.jcajce.provider.util']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.symmetric.util']" />
+  <remove-node path="/api/package[@name='org.spongycastle.crypto']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.asymmetric']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jce.provider']" />
+  <remove-node path="/api/package[@name='org.spongycastle.jcajce.provider.keystore']" />
+  <remove-node path="/api/package[@name='org.spongycastle.pqc.jcajce.provider']" />
+  <remove-node path="/api/package[@name='org.spongycastle.crypto.tls']" />
+  <remove-node path="/api/package[@name='org.spongycastle.x509']" />
+
+  <remove-node path="/api/package[@name='jj2000.j2k.io']" />
+  <remove-node path="/api/package[@name='jj2000.j2k.wavelet.analysis']" />
+  <remove-node path="/api/package[@name='jj2000.j2k.wavelet.synthesis']" />
+</metadata>
